@@ -37,10 +37,6 @@ My name is Nilanga Virajith and I am a Senior Software Developer.
 <br>
 <br>
 
-## Stats
-[![Nilanga Virajith's github stats](https://github-readme-stats.vercel.app/api?username=nilangav&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilangav&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilangav&theme=algolia" alt="nilangav"  /></p>
-
 [website]: https://nilangav.github.io/
 [instagram]: https://www.instagram.com/___nilanga___/?hl=en
 [linkedin]: https://www.linkedin.com/in/nilangav/
